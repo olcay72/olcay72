@@ -13,6 +13,7 @@ Yönetim Bilişim Sistemleri (YBS) öğrencisiyim. Yazılım geliştirme, veri y
 
 ### 🚀 Öne Çıkan Projelerim
 Aşağıdaki projelerimi inceleyebilirsin:
+* [Kişisel Finans ve Harcama Analiz Sistemi](https://github.com/olcay72/kisisel-finans-ve-harcama-analiz-sistemi) - Kişisel finans, bütçe ve harcama analizi yapan modüler Python uygulaması.
 * [E-Ticaret Botu](https://github.com/olcay72/eticaret-botu) - Python ve Selenium ile geliştirilmiş fiyat takip otomasyonu.
 * [Bütçe Takip Sistemi](https://github.com/olcay72/butce-takip-sistemi) - Harcama ve limit kontrolü sağlayan Python konsol uygulaması.
 * [Tercih ve Burs Sistemi](https://github.com/olcay72/tercih-ve-burs-sistemi) - Öğrenci verilerine göre uygun bölüm ve burs analizi yapan sistem.
